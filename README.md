@@ -1,24 +1,8 @@
-# Demo App
+# My Drink App
+I'm worrking on a little app using Sveltekit and eventually Prisma. Right now it's only storing local storage, but I have included Tailwind to make it pretty.
+
+Here's the demo app. <br>
 https://svelte-prisma.vercel.app/
-
-
-# create-svelte
-
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
-```
-
-> Note: the `@next` is temporary
 
 ## Developing
 
