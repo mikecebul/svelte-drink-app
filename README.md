@@ -1,5 +1,5 @@
 # My Drink App
-I'm worrking on a little app using Sveltekit and eventually Prisma. Right now it's only storing local storage, but I have included Tailwind to make it pretty.
+I'm working on a little app using Sveltekit and eventually Prisma. Right now it's only storing local storage, but I have included Tailwind to make it pretty.
 
 This idea was taken from Weibenfalk and James Q Quick on YouTube.
 https://youtu.be/6oDSwcZPbxA <br>
