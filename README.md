@@ -1,7 +1,11 @@
 # My Drink App
 I'm worrking on a little app using Sveltekit and eventually Prisma. Right now it's only storing local storage, but I have included Tailwind to make it pretty.
 
-Here's the demo app. <br>
+This idea was taken from Weibenfalk and James Q Quick on YouTube.
+https://youtu.be/6oDSwcZPbxA <br>
+https://youtu.be/YipaPr4Aex8 <br>
+
+Here's my demo app. <br>
 https://svelte-prisma.vercel.app/
 
 ## Developing
