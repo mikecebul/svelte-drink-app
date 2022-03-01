@@ -1,5 +1,5 @@
 # Demo App
-### https://svelte-prisma.vercel.app/
+https://svelte-prisma.vercel.app/
 
 
 # create-svelte
